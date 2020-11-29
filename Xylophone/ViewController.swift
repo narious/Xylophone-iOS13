@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func keyPressed(_ sender: UIButton) {
+        print(sender)
         if let text = sender.titleLabel?.text {
             print(text)
         }
