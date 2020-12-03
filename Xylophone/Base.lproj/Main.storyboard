@@ -30,7 +30,6 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="cButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aYr-Tk-S62"/>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="q4N-lR-Mc2"/>
                                                 </connections>
                                             </button>
@@ -55,7 +54,6 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="dButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Hwf-Cd-Rjf"/>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KB1-6c-l9D"/>
                                                 </connections>
                                             </button>
@@ -80,7 +78,6 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="eButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lQC-vy-9aJ"/>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9Ob-6c-o5E"/>
                                                 </connections>
                                             </button>
@@ -105,7 +102,6 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="fButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rT1-kX-xzk"/>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eg1-Ew-JD3"/>
                                                 </connections>
                                             </button>
@@ -130,7 +126,6 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="gButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RVh-l0-90s"/>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8ez-Yv-fE7"/>
                                                 </connections>
                                             </button>
@@ -155,7 +150,6 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="aButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ILS-vb-v6q"/>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ii7-Y9-KVx"/>
                                                 </connections>
                                             </button>
@@ -180,7 +174,6 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="bButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bdh-cY-pMC"/>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nDl-We-d0M"/>
                                                 </connections>
                                             </button>
