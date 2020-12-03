@@ -14,14 +14,18 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        playSound(filename: "C")
     }
 
     @IBAction func keyPressed(_ sender: UIButton) {
         if let text = sender.titleLabel?.text {
-            playSound(filename: text)
+            DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
+                self.playSound(filename: text)
+            }
         }
         
+        sender.alpha = sender.alpha / 2
+        
+        return
     }
      
     func playSound(filename f: String) {
@@ -42,6 +46,7 @@ class ViewController: UIViewController {
         }
                 
     }
+    
 }
 
 
